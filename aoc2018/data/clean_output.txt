@@ -1,0 +1,1086 @@
+Guard #2347 begins shift,58
+falls asleep,27
+wakes up,58
+Guard #211 begins shift,53
+falls asleep,5
+wakes up,29
+falls asleep,35
+wakes up,36
+Guard #1453 begins shift,4
+falls asleep,38
+wakes up,41
+Guard #1987 begins shift,0
+falls asleep,20
+wakes up,25
+falls asleep,28
+wakes up,44
+Guard #769 begins shift,0
+falls asleep,13
+wakes up,50
+falls asleep,57
+wakes up,58
+Guard #1453 begins shift,50
+falls asleep,1
+wakes up,39
+Guard #1249 begins shift,57
+falls asleep,41
+wakes up,43
+falls asleep,55
+wakes up,57
+Guard #2039 begins shift,47
+falls asleep,1
+wakes up,36
+falls asleep,48
+wakes up,55
+Guard #877 begins shift,1
+falls asleep,14
+wakes up,43
+falls asleep,46
+wakes up,59
+Guard #1217 begins shift,3
+falls asleep,13
+wakes up,47
+Guard #809 begins shift,59
+falls asleep,40
+wakes up,49
+Guard #2039 begins shift,58
+falls asleep,37
+wakes up,38
+falls asleep,56
+wakes up,59
+Guard #2311 begins shift,1
+Guard #1217 begins shift,56
+falls asleep,8
+wakes up,56
+Guard #661 begins shift,0
+falls asleep,11
+wakes up,53
+Guard #1249 begins shift,0
+falls asleep,34
+wakes up,37
+falls asleep,49
+wakes up,56
+Guard #3541 begins shift,2
+falls asleep,12
+wakes up,26
+falls asleep,35
+wakes up,37
+Guard #2039 begins shift,3
+falls asleep,33
+wakes up,55
+Guard #661 begins shift,59
+falls asleep,38
+wakes up,49
+Guard #3541 begins shift,59
+falls asleep,16
+wakes up,52
+Guard #769 begins shift,4
+falls asleep,29
+wakes up,47
+falls asleep,50
+wakes up,51
+Guard #2039 begins shift,2
+falls asleep,29
+wakes up,50
+Guard #769 begins shift,0
+falls asleep,42
+wakes up,55
+Guard #1013 begins shift,57
+falls asleep,53
+wakes up,59
+Guard #349 begins shift,56
+falls asleep,10
+wakes up,53
+falls asleep,56
+wakes up,59
+Guard #661 begins shift,48
+falls asleep,5
+wakes up,56
+Guard #2039 begins shift,2
+falls asleep,53
+wakes up,58
+Guard #1733 begins shift,56
+falls asleep,21
+wakes up,35
+Guard #509 begins shift,1
+falls asleep,9
+wakes up,29
+falls asleep,39
+wakes up,58
+Guard #1249 begins shift,56
+falls asleep,18
+wakes up,50
+Guard #877 begins shift,50
+falls asleep,4
+wakes up,46
+falls asleep,50
+wakes up,57
+Guard #1249 begins shift,2
+falls asleep,38
+wakes up,57
+Guard #2039 begins shift,58
+falls asleep,17
+wakes up,36
+falls asleep,53
+wakes up,59
+Guard #2039 begins shift,2
+falls asleep,41
+wakes up,46
+falls asleep,49
+wakes up,59
+Guard #2039 begins shift,54
+falls asleep,4
+wakes up,35
+falls asleep,46
+wakes up,56
+Guard #769 begins shift,47
+falls asleep,4
+wakes up,52
+Guard #1013 begins shift,57
+falls asleep,37
+wakes up,52
+Guard #769 begins shift,57
+falls asleep,19
+wakes up,20
+falls asleep,48
+wakes up,58
+Guard #877 begins shift,50
+falls asleep,1
+wakes up,35
+falls asleep,39
+wakes up,55
+Guard #1321 begins shift,58
+Guard #661 begins shift,0
+falls asleep,12
+wakes up,50
+Guard #1217 begins shift,56
+falls asleep,17
+wakes up,54
+falls asleep,57
+wakes up,59
+Guard #1987 begins shift,56
+falls asleep,22
+wakes up,25
+falls asleep,36
+wakes up,56
+Guard #233 begins shift,47
+falls asleep,4
+wakes up,28
+falls asleep,35
+wakes up,52
+Guard #1733 begins shift,0
+falls asleep,18
+wakes up,45
+Guard #2347 begins shift,56
+falls asleep,37
+wakes up,43
+falls asleep,47
+wakes up,58
+Guard #809 begins shift,58
+falls asleep,9
+wakes up,35
+falls asleep,40
+wakes up,47
+Guard #877 begins shift,48
+falls asleep,1
+wakes up,6
+falls asleep,22
+wakes up,29
+falls asleep,35
+wakes up,50
+Guard #349 begins shift,3
+falls asleep,28
+wakes up,43
+Guard #1249 begins shift,47
+falls asleep,4
+wakes up,50
+falls asleep,53
+wakes up,55
+Guard #1733 begins shift,0
+falls asleep,32
+wakes up,41
+Guard #509 begins shift,4
+falls asleep,29
+wakes up,31
+falls asleep,47
+wakes up,49
+falls asleep,56
+wakes up,58
+Guard #509 begins shift,1
+falls asleep,14
+wakes up,20
+falls asleep,39
+wakes up,43
+falls asleep,48
+wakes up,56
+Guard #661 begins shift,57
+falls asleep,22
+wakes up,38
+Guard #211 begins shift,0
+falls asleep,37
+wakes up,53
+Guard #1733 begins shift,56
+falls asleep,20
+wakes up,50
+Guard #769 begins shift,3
+falls asleep,21
+wakes up,47
+falls asleep,54
+wakes up,57
+Guard #1453 begins shift,56
+falls asleep,6
+wakes up,23
+falls asleep,33
+wakes up,42
+Guard #1217 begins shift,59
+falls asleep,9
+wakes up,27
+falls asleep,30
+wakes up,37
+Guard #1013 begins shift,0
+falls asleep,46
+wakes up,51
+Guard #233 begins shift,58
+falls asleep,19
+wakes up,59
+Guard #233 begins shift,56
+falls asleep,15
+wakes up,27
+falls asleep,39
+wakes up,44
+falls asleep,48
+wakes up,57
+Guard #2663 begins shift,1
+falls asleep,14
+wakes up,49
+Guard #1733 begins shift,1
+falls asleep,8
+wakes up,43
+Guard #1987 begins shift,0
+falls asleep,6
+wakes up,43
+Guard #661 begins shift,53
+falls asleep,2
+wakes up,17
+falls asleep,23
+wakes up,34
+falls asleep,37
+wakes up,48
+Guard #211 begins shift,57
+falls asleep,13
+wakes up,53
+Guard #509 begins shift,59
+falls asleep,24
+wakes up,25
+falls asleep,39
+wakes up,47
+falls asleep,50
+wakes up,58
+Guard #2039 begins shift,4
+falls asleep,32
+wakes up,52
+Guard #2347 begins shift,3
+falls asleep,13
+wakes up,37
+falls asleep,52
+wakes up,56
+Guard #211 begins shift,4
+falls asleep,33
+wakes up,48
+Guard #1987 begins shift,3
+falls asleep,13
+wakes up,30
+falls asleep,38
+wakes up,57
+Guard #769 begins shift,58
+falls asleep,41
+wakes up,53
+Guard #1217 begins shift,58
+falls asleep,23
+wakes up,41
+falls asleep,47
+wakes up,58
+Guard #1321 begins shift,3
+Guard #1987 begins shift,56
+falls asleep,30
+wakes up,36
+falls asleep,43
+wakes up,46
+falls asleep,54
+wakes up,59
+Guard #1013 begins shift,4
+falls asleep,17
+wakes up,33
+falls asleep,42
+wakes up,51
+Guard #2347 begins shift,59
+falls asleep,42
+wakes up,59
+Guard #1733 begins shift,56
+falls asleep,11
+wakes up,14
+falls asleep,40
+wakes up,47
+Guard #509 begins shift,57
+falls asleep,21
+wakes up,39
+falls asleep,42
+wakes up,50
+Guard #1733 begins shift,4
+falls asleep,25
+wakes up,44
+Guard #769 begins shift,58
+falls asleep,40
+wakes up,47
+Guard #2347 begins shift,0
+falls asleep,46
+wakes up,56
+Guard #349 begins shift,4
+falls asleep,29
+wakes up,41
+falls asleep,50
+wakes up,53
+Guard #191 begins shift,56
+falls asleep,41
+wakes up,43
+falls asleep,47
+wakes up,55
+Guard #191 begins shift,0
+falls asleep,21
+wakes up,37
+Guard #1217 begins shift,59
+falls asleep,24
+wakes up,54
+Guard #1013 begins shift,0
+falls asleep,27
+wakes up,49
+Guard #1249 begins shift,2
+falls asleep,43
+wakes up,52
+Guard #349 begins shift,51
+falls asleep,5
+wakes up,46
+falls asleep,51
+wakes up,52
+Guard #2663 begins shift,47
+falls asleep,1
+wakes up,24
+falls asleep,38
+wakes up,50
+falls asleep,57
+wakes up,58
+Guard #211 begins shift,47
+falls asleep,0
+wakes up,43
+Guard #349 begins shift,58
+falls asleep,30
+wakes up,38
+Guard #2347 begins shift,4
+falls asleep,52
+wakes up,59
+Guard #2039 begins shift,52
+falls asleep,5
+wakes up,52
+Guard #349 begins shift,3
+falls asleep,9
+wakes up,33
+Guard #349 begins shift,56
+falls asleep,35
+wakes up,42
+Guard #191 begins shift,59
+falls asleep,10
+wakes up,51
+Guard #1987 begins shift,59
+falls asleep,9
+wakes up,36
+Guard #1987 begins shift,1
+falls asleep,8
+wakes up,30
+falls asleep,38
+wakes up,45
+Guard #1733 begins shift,48
+falls asleep,0
+wakes up,10
+falls asleep,13
+wakes up,34
+falls asleep,38
+wakes up,44
+Guard #233 begins shift,3
+falls asleep,37
+wakes up,45
+falls asleep,51
+wakes up,58
+Guard #349 begins shift,0
+falls asleep,24
+wakes up,32
+Guard #877 begins shift,56
+falls asleep,27
+wakes up,30
+falls asleep,53
+wakes up,55
+Guard #1249 begins shift,0
+falls asleep,31
+wakes up,44
+falls asleep,53
+wakes up,55
+Guard #2039 begins shift,4
+falls asleep,10
+wakes up,47
+Guard #211 begins shift,57
+falls asleep,18
+wakes up,30
+falls asleep,34
+wakes up,55
+Guard #1987 begins shift,51
+falls asleep,4
+wakes up,31
+falls asleep,48
+wakes up,49
+falls asleep,56
+wakes up,59
+Guard #509 begins shift,2
+falls asleep,14
+wakes up,32
+falls asleep,46
+wakes up,51
+Guard #1013 begins shift,56
+falls asleep,15
+wakes up,30
+falls asleep,33
+wakes up,44
+Guard #1013 begins shift,0
+falls asleep,31
+wakes up,56
+Guard #1013 begins shift,59
+falls asleep,30
+wakes up,56
+Guard #809 begins shift,59
+falls asleep,33
+wakes up,50
+Guard #211 begins shift,56
+falls asleep,15
+wakes up,47
+falls asleep,56
+wakes up,57
+Guard #1733 begins shift,57
+falls asleep,35
+wakes up,40
+falls asleep,55
+wakes up,56
+Guard #877 begins shift,59
+falls asleep,18
+wakes up,21
+falls asleep,37
+wakes up,55
+Guard #1987 begins shift,50
+falls asleep,3
+wakes up,44
+Guard #2039 begins shift,56
+falls asleep,40
+wakes up,41
+falls asleep,47
+wakes up,59
+Guard #1867 begins shift,58
+falls asleep,27
+wakes up,33
+Guard #2663 begins shift,0
+falls asleep,11
+wakes up,36
+Guard #2347 begins shift,58
+falls asleep,44
+wakes up,51
+Guard #1013 begins shift,4
+falls asleep,14
+wakes up,17
+Guard #1217 begins shift,0
+falls asleep,16
+wakes up,37
+falls asleep,47
+wakes up,50
+Guard #1249 begins shift,4
+falls asleep,48
+wakes up,58
+Guard #3541 begins shift,49
+falls asleep,1
+wakes up,37
+Guard #661 begins shift,59
+falls asleep,22
+wakes up,51
+Guard #509 begins shift,4
+falls asleep,36
+wakes up,58
+Guard #1867 begins shift,0
+falls asleep,11
+wakes up,58
+Guard #1733 begins shift,0
+falls asleep,7
+wakes up,40
+Guard #661 begins shift,58
+falls asleep,40
+wakes up,54
+Guard #1013 begins shift,2
+falls asleep,41
+wakes up,57
+Guard #877 begins shif,51
+falls asleep,3
+wakes up,12
+Guard #2663 begins shift,51
+falls asleep,2
+wakes up,12
+Guard #1321 begins shift,58
+Guard #211 begins shift,59
+falls asleep,15
+wakes up,53
+Guard #809 begins shift,56
+falls asleep,47
+wakes up,56
+Guard #809 begins shift,4
+falls asleep,43
+wakes up,55
+Guard #191 begins shift,56
+falls asleep,12
+wakes up,36
+falls asleep,53
+wakes up,55
+Guard #1249 begins shift,0
+falls asleep,16
+wakes up,55
+Guard #349 begins shift,0
+falls asleep,24
+wakes up,37
+falls asleep,49
+wakes up,53
+Guard #1249 begins shift,58
+falls asleep,54
+wakes up,58
+Guard #769 begins shift,3
+falls asleep,15
+wakes up,18
+Guard #1321 begins shift,57
+Guard #2039 begins shift,0
+falls asleep,9
+wakes up,37
+falls asleep,51
+wakes up,56
+Guard #809 begins shift,58
+falls asleep,39
+wakes up,51
+Guard #2347 begins shift,59
+falls asleep,9
+wakes up,10
+falls asleep,48
+wakes up,57
+Guard #2039 begins shift,3
+falls asleep,16
+wakes up,56
+Guard #211 begins shift,57
+falls asleep,37
+wakes up,50
+falls asleep,55
+wakes up,58
+Guard #509 begins shift,4
+falls asleep,6
+wakes up,43
+Guard #661 begins shift,57
+falls asleep,14
+wakes up,27
+Guard #661 begins shift,57
+falls asleep,49
+wakes up,59
+Guard #509 begins shift,52
+falls asleep,4
+wakes up,58
+Guard #2347 begins shift,0
+falls asleep,23
+wakes up,29
+falls asleep,33
+wakes up,51
+Guard #211 begins shift,57
+falls asleep,41
+wakes up,42
+Guard #1733 begins shift,1
+falls asleep,10
+wakes up,29
+falls asleep,36
+wakes up,59
+Guard #1867 begins shift,58
+falls asleep,6
+wakes up,11
+falls asleep,42
+wakes up,53
+Guard #2347 begins shift,59
+falls asleep,27
+wakes up,57
+Guard #1451 begins shift,2
+Guard #509 begins shift,59
+falls asleep,27
+wakes up,57
+Guard #1217 begins shift,57
+falls asleep,7
+wakes up,12
+falls asleep,28
+wakes up,30
+falls asleep,35
+wakes up,39
+falls asleep,46
+wakes up,54
+Guard #1867 begins shift,57
+falls asleep,42
+wakes up,57
+Guard #509 begins shift,1
+falls asleep,11
+wakes up,52
+Guard #877 begins shift,3
+falls asleep,7
+wakes up,19
+falls asleep,29
+wakes up,37
+falls asleep,46
+wakes up,56
+Guard #2347 begins shift,56
+falls asleep,31
+wakes up,59
+Guard #211 begins shift,58
+falls asleep,36
+wakes up,53
+Guard #661 begins shift,4
+falls asleep,23
+wakes up,43
+Guard #1217 begins shift,0
+falls asleep,26
+wakes up,41
+falls asleep,47
+wakes up,49
+falls asleep,54
+wakes up,56
+Guard #809 begins shift,46
+falls asleep,2
+wakes up,47
+Guard #661 begins shift,3
+falls asleep,6
+wakes up,18
+falls asleep,24
+wakes up,48
+Guard #877 begins shift,2
+falls asleep,28
+wakes up,44
+falls asleep,54
+wakes up,59
+Guard #211 begins shift,59
+falls asleep,25
+wakes up,49
+Guard #211 begins shift,1
+falls asleep,18
+wakes up,40
+falls asleep,43
+wakes up,44
+falls asleep,52
+wakes up,56
+Guard #2347 begins shift,2
+falls asleep,30
+wakes up,35
+falls asleep,55
+wakes up,57
+Guard #877 begins shift,0
+falls asleep,6
+wakes up,52
+Guard #1453 begins shift,59
+falls asleep,11
+wakes up,50
+Guard #2663 begins shift,4
+falls asleep,53
+wakes up,57
+Guard #661 begins shift,56
+falls asleep,28
+wakes up,48
+Guard #233 begins shift,59
+falls asleep,48
+wakes up,55
+Guard #1733 begins shift,56
+falls asleep,14
+wakes up,26
+falls asleep,40
+wakes up,57
+Guard #769 begins shift,2
+falls asleep,38
+wakes up,55
+Guard #1733 begins shift,2
+falls asleep,8
+wakes up,54
+Guard #211 begins shift,0
+falls asleep,19
+wakes up,37
+falls asleep,43
+wakes up,48
+Guard #1987 begins shift,0
+falls asleep,21
+wakes up,43
+falls asleep,46
+wakes up,52
+falls asleep,55
+wakes up,57
+Guard #349 begins shift,56
+falls asleep,8
+wakes up,28
+falls asleep,43
+wakes up,55
+Guard #1453 begins shift,2
+falls asleep,10
+wakes up,56
+Guard #1249 begins shift,57
+falls asleep,35
+wakes up,55
+Guard #1217 begins shift,58
+falls asleep,19
+wakes up,47
+Guard #211 begins shift,0
+falls asleep,7
+wakes up,29
+falls asleep,42
+wakes up,46
+Guard #2039 begins shift,1
+falls asleep,47
+wakes up,51
+Guard #1217 begins shift,52
+falls asleep,5
+wakes up,18
+falls asleep,35
+wakes up,59
+Guard #1867 begins shift,56
+falls asleep,13
+wakes up,31
+Guard #191 begins shift,56
+falls asleep,28
+wakes up,49
+Guard #509 begins shift,0
+falls asleep,10
+wakes up,41
+Guard #509 begins shift,56
+falls asleep,10
+wakes up,37
+falls asleep,42
+wakes up,57
+Guard #2347 begins shift,0
+falls asleep,13
+wakes up,52
+Guard #809 begins shift,48
+falls asleep,0
+wakes up,53
+Guard #1867 begins shift,0
+falls asleep,39
+wakes up,59
+Guard #1249 begins shift,57
+falls asleep,19
+wakes up,53
+falls asleep,56
+wakes up,57
+Guard #211 begins shift,56
+falls asleep,22
+wakes up,23
+falls asleep,44
+wakes up,47
+Guard #1733 begins shift,47
+falls asleep,2
+wakes up,23
+Guard #1453 begins shift,59
+falls asleep,25
+wakes up,42
+Guard #2347 begins shift,48
+falls asleep,1
+wakes up,44
+falls asleep,52
+wakes up,57
+Guard #1013 begins shift,59
+falls asleep,14
+wakes up,29
+falls asleep,34
+wakes up,56
+Guard #809 begins shift,2
+falls asleep,23
+wakes up,56
+Guard #349 begins shift,59
+falls asleep,28
+wakes up,51
+Guard #1249 begins shift,1
+falls asleep,28
+wakes up,57
+Guard #1217 begins shift,0
+falls asleep,8
+wakes up,28
+Guard #191 begins shift,56
+falls asleep,26
+wakes up,42
+Guard #809 begins shift,2
+falls asleep,11
+wakes up,57
+Guard #2039 begins shift,3
+falls asleep,23
+wakes up,55
+Guard #661 begins shift,4
+falls asleep,19
+wakes up,30
+falls asleep,38
+wakes up,57
+Guard #1987 begins shift,3
+falls asleep,23
+wakes up,56
+Guard #509 begins shift,53
+falls asleep,5
+wakes up,6
+falls asleep,15
+wakes up,38
+falls asleep,43
+wakes up,48
+Guard #2663 begins shift,56
+falls asleep,17
+wakes up,27
+falls asleep,33
+wakes up,49
+falls asleep,56
+wakes up,58
+Guard #661 begins shift,1
+falls asleep,28
+wakes up,46
+falls asleep,49
+wakes up,54
+Guard #3541 begins shift,59
+falls asleep,10
+wakes up,37
+Guard #1867 begins shift,2
+falls asleep,41
+wakes up,49
+falls asleep,54
+wakes up,58
+Guard #2347 begins shift,0
+falls asleep,28
+wakes up,49
+Guard #1217 begins shift,56
+falls asleep,22
+wakes up,28
+falls asleep,32
+wakes up,58
+Guard #1987 begins shift,2
+falls asleep,22
+wakes up,30
+falls asleep,42
+wakes up,57
+Guard #2347 begins shift,0
+falls asleep,23
+wakes up,48
+falls asleep,51
+wakes up,53
+Guard #2039 begins shift,4
+falls asleep,39
+wakes up,50
+Guard #2663 begins shift,0
+falls asleep,27
+wakes up,45
+Guard #1987 begins shift,56
+falls asleep,42
+wakes up,48
+falls asleep,55
+wakes up,59
+Guard #3541 begins shift,0
+falls asleep,12
+wakes up,25
+falls asleep,48
+wakes up,50
+Guard #1867 begins shift,4
+falls asleep,44
+wakes up,48
+Guard #191 begins shift,56
+falls asleep,34
+wakes up,41
+Guard #769 begins shift,56
+falls asleep,17
+wakes up,35
+falls asleep,48
+wakes up,51
+Guard #233 begins shift,3
+falls asleep,35
+wakes up,58
+Guard #877 begins shift,50
+falls asleep,2
+wakes up,42
+falls asleep,45
+wakes up,57
+Guard #1453 begins shift,56
+falls asleep,9
+wakes up,15
+falls asleep,38
+wakes up,56
+Guard #877 begins shift,59
+falls asleep,10
+wakes up,38
+Guard #2039 begins shift,1
+falls asleep,18
+wakes up,25
+falls asleep,42
+wakes up,53
+falls asleep,56
+wakes up,57
+Guard #809 begins shift,2
+falls asleep,46
+wakes up,47
+Guard #1733 begins shift,1
+falls asleep,34
+wakes up,39
+falls asleep,42
+wakes up,50
+Guard #2039 begins shift,0
+falls asleep,20
+wakes up,58
+Guard #349 begins shift,51
+falls asleep,3
+wakes up,47
+falls asleep,50
+wakes up,58
+Guard #191 begins shift,0
+falls asleep,33
+wakes up,50
+Guard #349 begins shift,0
+falls asleep,27
+wakes up,52
+Guard #1733 begins shift,58
+falls asleep,34
+wakes up,49
+Guard #1867 begins shift,2
+falls asleep,13
+wakes up,28
+falls asleep,45
+wakes up,47
+falls asleep,56
+wakes up,57
+Guard #661 begins shift,58
+falls asleep,36
+wakes up,52
+Guard #809 begins shift,48
+falls asleep,1
+wakes up,10
+falls asleep,37
+wakes up,48
+Guard #1867 begins shift,53
+falls asleep,4
+wakes up,31
+Guard #1217 begins shift,1
+falls asleep,7
+wakes up,30
+falls asleep,36
+wakes up,37
+falls asleep,52
+wakes up,57
+Guard #1733 begins shift,0
+falls asleep,36
+wakes up,41
+falls asleep,57
+wakes up,58
+Guard #3541 begins shift,59
+falls asleep,11
+wakes up,19
+falls asleep,30
+wakes up,32
+Guard #1733 begins shift,58
+falls asleep,38
+wakes up,43
+falls asleep,52
+wakes up,55
+Guard #809 begins shift,1
+falls asleep,31
+wakes up,34
+falls asleep,41
+wakes up,42
+falls asleep,47
+wakes up,55
+Guard #3541 begins shift,0
+falls asleep,26
+wakes up,53
+Guard #1733 begins shift,59
+falls asleep,37
+wakes up,42
+falls asleep,46
+wakes up,48
+falls asleep,56
+wakes up,59
+Guard #1013 begins shift,58
+falls asleep,21
+wakes up,36
+falls asleep,46
+wakes up,48
+Guard #1453 begins shift,57
+falls asleep,56
+wakes up,58
+Guard #1733 begins shift,4
+falls asleep,15
+wakes up,30
+falls asleep,36
+wakes up,49
+Guard #2347 begins shift,1
+falls asleep,13
+wakes up,32
+falls asleep,51
+wakes up,55
+Guard #1013 begins shift,0
+falls asleep,36
+wakes up,44
+Guard #877 begins shift,56
+falls asleep,11
+wakes up,26
+falls asleep,44
+wakes up,58
+Guard #349 begins shift,0
+falls asleep,12
+wakes up,43
+falls asleep,50
+wakes up,55
+Guard #1733 begins shift,57
+falls asleep,24
+wakes up,39
+Guard #769 begins shift,4
+falls asleep,48
+wakes up,57
+Guard #1867 begins shift,51
+falls asleep,0
+wakes up,57
+Guard #349 begins shift,50
+falls asleep,0
+wakes up,10
+falls asleep,44
+wakes up,49
+Guard #349 begins shift,56
+falls asleep,15
+wakes up,33
+Guard #349 begins shift,57
+falls asleep,13
+wakes up,25
+falls asleep,30
+wakes up,58
+Guard #1987 begins shift,52
+falls asleep,5
+wakes up,55
+Guard #509 begins shift,50
+falls asleep,0
+wakes up,29
+falls asleep,48
+wakes up,49
+Guard #3541 begins shift,2
+falls asleep,9
+wakes up,18
+falls asleep,21
+wakes up,48
+Guard #211 begins shift,56
+falls asleep,23
+wakes up,34
+falls asleep,43
+wakes up,54
+Guard #1987 begins shift,53
+falls asleep,1
+wakes up,25
+Guard #1321 begins shift,56
+Guard #3541 begins shift,58
+falls asleep,46
+wakes up,55
+Guard #2663 begins shift,3
+falls asleep,28
+wakes up,49
+falls asleep,56
+wakes up,57
