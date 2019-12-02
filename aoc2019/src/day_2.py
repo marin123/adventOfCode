@@ -20,20 +20,16 @@ def program_out(noun, verb, data_list_o):
     data_list = [a for a in data_list_o]
     data_list[1] = noun
     data_list[2] = verb
-    while i < 133:
+    while i < len(data_list_o):
         program = data_list[i:i+4]
-        if program[1] <= 133 and program[2] <= 133 and program[3] <= 133:
-            if program[0] == 1:
-                data_list = sum_elements(program[1], program[2], program[3], data_list)
-            elif program[0] == 2:
-                data_list = multiply_elements(program[1], program[2], program[3], data_list)
-            if data_list[i+4] == 99:
-                return data_list[0]
-                break
-            i += 4
-        else:
+        if program[0] == 1:
+            data_list = sum_elements(program[1], program[2], program[3], data_list)
+        elif program[0] == 2:
+            data_list = multiply_elements(program[1], program[2], program[3], data_list)
+        if data_list[i+4] == 99:
             return data_list[0]
             break
+        i += 4
     return data_list[0]
 
 
