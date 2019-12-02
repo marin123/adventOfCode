@@ -1,5 +1,5 @@
 def get_data(path):
-    with open('../data/input_1_1.txt', 'r') as f:
+    with open(path, 'r') as f:
         data = f.readlines()
     return data
 
